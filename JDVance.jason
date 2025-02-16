@@ -1,0 +1,16 @@
+{
+    "name": "VanceVibes",
+    "symbol": "Vance",
+    "description": "Let’s Make History Together! $Vance isn’t just a token – it’s a movement. Whether you’re here for the memes, the politics, or the gains, VanceVibes is your home. Feel the Vibe. Own the Future..",
+    "image": "https://github.com/CryptoSuleimano/JDvance/blob/main/Untitled_Project_V1.png",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Community"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Unique"
+        }
+    ]
+}
